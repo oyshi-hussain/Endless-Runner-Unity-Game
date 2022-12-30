@@ -1,2 +1,2 @@
-# Endless-Runner-Unity-Game
-A 2D Unity Game
+# How to Run the game?
+Open the Endless Runner.exe file to play the game!
